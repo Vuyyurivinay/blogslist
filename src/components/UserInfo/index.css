@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.user-info-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  border-radius: 24px;
+  border-color: none;
+  width: 120px;
+  height: 80px;
+}
+
+.heading {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.role {
+  color: grey;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
